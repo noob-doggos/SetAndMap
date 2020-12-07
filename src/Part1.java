@@ -35,9 +35,9 @@ public class Part1
     
     /**
      * maxLength solution method (BJP5 Exercise 11.8):
-     * returns the length of the longest string in given List<String> toCheck
+     * returns the length of the longest string in given Set<String> toCheck
      * 
-     * @param toCheck, a List<String> to get the longest string length of
+     * @param toCheck, a Set<String> to get the longest string length of
      * @return the longest string length in toCheck
      */
     public static int maxLength(Set<String> toCheck)
